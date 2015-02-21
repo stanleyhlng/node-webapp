@@ -1,0 +1,16 @@
+{
+  "name": "node-webapp",
+  "version": "0.0.0",
+  "authors": [
+    "stanleyn <stanleyhlng@yahoo.com.hk>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
