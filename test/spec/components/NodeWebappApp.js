@@ -9,7 +9,7 @@ describe('Main', function () {
     container.id = 'content';
     document.body.appendChild(container);
 
-    NodeWebappApp = require('components/NodeWebappApp.js');
+    NodeWebappApp = require('../../../src/scripts/components/NodeWebappApp.js');
     component = React.createElement(NodeWebappApp);
   });
 
